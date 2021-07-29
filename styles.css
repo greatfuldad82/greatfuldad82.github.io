@@ -1,0 +1,49 @@
+/* sensual stylings with alex mitchell - rarrrrrh */
+
+body { 
+    background-image: url(AdobeStock_267368352.jpeg);
+    /* o pelouringho menino da rua - malandro de verdad */
+    background-size: auto;
+    z-index: 0;
+    }
+
+    .navbar {
+        background-color: aquamarine;
+    }
+
+    .videoWrapper {
+        /* border: 2px solid cornflowerblue; */
+        position: relative;
+        top: 10px;
+        bottom: 0em;
+        left: 1px;
+        right: 0;
+        margin: auto;
+        z-index:0;
+    }
+
+    .col-sm {
+        width: 300px;
+        z-index: 1;
+        border-radius: 20px;
+        height: 600px;
+        
+        }
+
+        p {
+            margin: 10px 0;
+            padding: 8px;
+            border: 4px solid #999;
+            color: black;
+            z-index: 1;
+            background-color: rgb(225, 228, 47); opacity: 0.5;
+            font-size: medium;
+            font-family: 'Courier New', Courier, monospace; 
+            text-align: justify;
+            text-align: center;
+            border-radius: 20px;
+            font-weight: bold;
+          }
+
+          /* <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0"> */
